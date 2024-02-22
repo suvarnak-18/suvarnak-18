@@ -86,7 +86,7 @@ sudo make install
 sudo apt-get install iverilog
 
 
-![iverilog](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/574044f3-3db5-44cf-b6ae-b0637f012f14)
+![iverilog]![3](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/6868b978-9506-4cdb-815a-13f07ddb09a0)
 
 
 ### GTkWave
