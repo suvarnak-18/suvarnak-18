@@ -89,6 +89,7 @@ sudo apt-get install iverilog
 ![iverilog]![3](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/6868b978-9506-4cdb-815a-13f07ddb09a0)
 
 
+
 ### GTkWave
  sudo apt-get install gtkwave 
-![gtkwave](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/6a6e671f-7f0d-4acb-97a4-49c25a225b2b)
+![gtkwave]![4](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/38650807-08e4-464f-aa9b-9d171c85ae98)
