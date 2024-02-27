@@ -29,7 +29,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 5: Check the output by using the command**
 
 **./a.out**
-![C Code Execution with results ](https://![task6](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/447e3f86-f164-4c4f-9d0c-a8bb87b7a9e8)
+![C Code Execution with results ](https://![task34](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/4f76ef80-2594-4062-86b1-db1d6f109a29)
+
 
 
 
