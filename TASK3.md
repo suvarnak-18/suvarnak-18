@@ -77,7 +77,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 ![checking instructions_in_main_C_Code_15_instructions](https://![task39](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7ac8e221-8a70-44a6-b6e4-4562389a6e16)
 
 
-![checking instructions_in_main_C_Code_15_instructions_highlighted](https://github.com/Abdulbitm/Abdul/assets/160620896/0a07ba3e-4a3d-41a7-a158-3ef976ce0292)
+![checking instructions_in_main_C_Code_15_instructions_highlighted](https://![task310](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/362329ef-38aa-4952-8973-ab15cdcaa716)
+
 
 
 **Step 4:**
