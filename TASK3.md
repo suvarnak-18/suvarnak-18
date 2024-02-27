@@ -60,9 +60,11 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **use the command**
 
+
 **ls -ltr sum1ton.c**
 
-![view the directory contents](https://github.com/Abdulbitm/Abdul/assets/160620896/c7dd20be-b896-4d19-af98-077590a23b14)
+![view the directory contents](https://![task38](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/99646363-dcf9-49a0-8e68-dbc69dc7f0cc)
+
 
 
 ![long directory content](https://github.com/Abdulbitm/Abdul/assets/160620896/3e2e473a-9f55-4bec-8ed3-4bd2732efbee)
