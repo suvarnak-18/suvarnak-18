@@ -67,7 +67,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 
 
-![long directory content](https://github.com/Abdulbitm/Abdul/assets/160620896/3e2e473a-9f55-4bec-8ed3-4bd2732efbee)
+![long directory content](https://![task39](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/aa70e753-2a74-4f38-b2fe-c1cb6256a68f)
+
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
