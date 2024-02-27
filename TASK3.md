@@ -63,7 +63,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **ls -ltr sum1ton.c**
 
-![view the directory contents](https://![task38](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/99646363-dcf9-49a0-8e68-dbc69dc7f0cc)
+![view the directory contents](https://![task37](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/e2c9cd48-4842-4df7-80d4-a46d69667468)
+
 
 
 
