@@ -47,7 +47,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 1: View the C Code in the editor window using the following command**
 
 **cat sum1ton.c**
-![view in the C code in notepad](https://github.com/Abdulbitm/Abdul/assets/160620896/cd8e147a-6cf3-444d-a76c-1b24ed063636)
+![view in the C code in notepad](https://![task6](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/06a6b260-5840-43c0-bbae-96f83af506b3)
+
 
 **Step 2: Compile the code in riscv using the following command**
 
