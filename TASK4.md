@@ -29,5 +29,5 @@
 
   
 ![WhatsApp Image 2024-02-28 at 19 41 36_d7540535](https://![task42](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/b1a96d2c-eabd-4fda-a54e-4cf63357aaf9)
-![task43](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/a40bf144-7f1f-426e-8d14-a16082016a39)
+
 
