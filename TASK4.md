@@ -19,7 +19,8 @@
   **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
 
   
-![WhatsApp Image 2024-02-28 at 19 41 34_c4b142a9](https://github.com/Abdulbitm/Abdul/assets/160620896/5c585d84-9953-475f-a501-5381507b4d86)
+![WhatsApp Image 2024-02-28 at 19 41 34_c4b142a9](https://![task41](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/d6e9ebf1-26ea-424c-8f3f-6afc11e5b6dd)
+
 
   ![WhatsApp Image 2024-02-28 at 19 41 34_d3e9b53a](https://github.com/Abdulbitm/Abdul/assets/160620896/6d28b21e-3b58-4f46-8cc0-accee9fb4976)
 
