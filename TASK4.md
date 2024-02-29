@@ -10,13 +10,13 @@
 
 **Step - 1: To Run the code in the normal GCC Compiler**
             **To compile the code: gcc sum1ton.c -o sum1ton**
-            **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
+            **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 1275**
 
             
 **Step - 2: To Run the code in the RISC-V GCC Compiler**
 
  **To compile the code: riscv64-unknown-elf-gcc -o sum1ton sum1ton.c**
-  **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
+  **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 1275**
 
   
 ![WhatsApp Image 2024-02-28 at 19 41 34_c4b142a9](https://![task41](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/d6e9ebf1-26ea-424c-8f3f-6afc11e5b6dd)
