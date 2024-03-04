@@ -71,7 +71,8 @@ $ ./hello
 
 `$ gtkwave hello.vcd'
 
-![w1](https://![task54](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/c02a6ab0-ce77-4c8b-ad47-19c259f0a4e9)
+![w1](https://![gtkwave](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7f6fc16e-92d0-4283-a482-1f605668dec2)
+
 
 
 ### 4.3 The output waveform
