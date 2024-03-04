@@ -24,7 +24,8 @@ This project provides an insight into the working of a few important instruction
 
 
 
-![3](https://github.com/Abdulbitm/Abdul/assets/160620896/0b2e2308-186c-4f70-9081-54ff8b3190ca)
+![3](https://![ss3](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/4b5a4508-7c08-445e-b0f9-56fde7fffa7d)
+
 
 ## 4. FUNCTIONAL SIMULATION
 
