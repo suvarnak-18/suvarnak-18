@@ -86,22 +86,8 @@ Instruction 4:or r9,r2,r5
 
 
  Instruction 5:xor r10,r1,r4
- <img width="1293" alt="5" src="https://github.com/Abdulbitm/Abdul/assets/160620896/6fa91f49-5e73-4133-8bf6-84ec4aca64da">
+ <img width="1293" alt="5" src="https://![pic14](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/77b7594f-7028-40bd-a9a1-3bc066ee3b68)
 
- Instruction 6:slt r11,r2,r4
-<img width="1290" alt="6" src="https://github.com/Abdulbitm/Abdul/assets/160620896/c9c32048-62ed-4f55-8e11-9763816b1bd1">
-
- Instruction 7:addi r12,r4,5
- <img width="1285" alt="7" src="https://github.com/Abdulbitm/Abdul/assets/160620896/308b8a9d-46c8-4a0e-8824-90e11d9a6a1e">
-
- Instruction 8:sw r3,r1,2
- <img width="1280" alt="8" src="https://github.com/Abdulbitm/Abdul/assets/160620896/84f16d7f-9d16-4236-b64d-615e187a00ff">
-
- Instruction 9:lw r13,r1,2
-<img width="1295" alt="9" src="https://github.com/Abdulbitm/Abdul/assets/160620896/c7bc7d9a-6745-4eeb-903d-fa723dca1394">
-
- Instruction 10:beq r0,r0,15
- <img width="1287" alt="10" src="https://github.com/Abdulbitm/Abdul/assets/160620896/a1c6781f-c301-45d9-a502-fb32e6204e4c">
 
  After branching, performing
  Instruction 11:add r14,r2,r2
