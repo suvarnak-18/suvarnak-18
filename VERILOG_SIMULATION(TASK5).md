@@ -56,7 +56,7 @@ This project provides an insight into the working of a few important instruction
 - **To simulate and run the Verilog code, enter the following commands in your terminal.**
 
 ```
-$ iverilog -o hello hello.v hello_tb.v
+$ iverilog -o hello hello.v 
 $ ./hello
 ```
 
@@ -64,11 +64,13 @@ $ ./hello
 
 - **To see the output waveform in gtkwave, enter the following commands in your terminal.**
 
-`$ gtkwave hello.vcd`
+`$ gtkwave hello_tb.v`
 
-![w1](https://github.com/Abdulbitm/Abdul/assets/160620896/23599ea1-26fb-414d-a121-d31d27c59b9c)
+![w1](https://![task54](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/c02a6ab0-ce77-4c8b-ad47-19c259f0a4e9)
+
 
 ### 4.3 The output waveform
+
 
  The output waveform showing the instructions performed in a 5-stage pipelined architecture.
  
