@@ -79,7 +79,8 @@ $ ./hello
 
 
  Instruction 2:sub r7,r1,r2
- <img width="1280" alt="2" src="https://github.com/Abdulbitm/Abdul/assets/160620896/2c95f18f-191e-4500-9cda-e7e838d1e609">
+ <img width="1280" alt="2" src="https://![pic12](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7f237bc2-bedd-4984-8f12-8e8bfd6d5bde)
+
 
 Instruction 3:and r8,r1,r3
 <img width="1282" alt="3" src="https://github.com/Abdulbitm/Abdul/assets/160620896/18bfdf76-1173-4984-b50b-83443ab48596">
