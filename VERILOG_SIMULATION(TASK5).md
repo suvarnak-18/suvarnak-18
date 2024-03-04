@@ -59,15 +59,17 @@ This project provides an insight into the working of a few important instruction
 - **To simulate and run the Verilog code, enter the following commands in your terminal.**
 
 ```
-$ iverilog -o hello hello.v 
+$ iverilog -o hello hello.v hello_tb.v
+
 $ ./hello
 ```
 
-![running verilog code using iverilog](https://![task53](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/50b92277-ad59-4317-a3d7-86eb15300ae7)
+![running verilog code using iverilog](https://![task54](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/8fa0955a-53c1-43fc-a582-b6999caf0e22)
+
 
 - **To see the output waveform in gtkwave, enter the following commands in your terminal.**
 
-`$ gtkwave hello_tb.v`
+`$ gtkwave hello.vcd'
 
 ![w1](https://![task54](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/c02a6ab0-ce77-4c8b-ad47-19c259f0a4e9)
 
