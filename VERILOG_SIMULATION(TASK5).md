@@ -89,10 +89,6 @@ Instruction 4:or r9,r2,r5
  <img width="1293" alt="5" src="https://![pic14](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/77b7594f-7028-40bd-a9a1-3bc066ee3b68)
 
 
- After branching, performing
- Instruction 11:add r14,r2,r2
- <img width="1287" alt="11" src="https://github.com/Abdulbitm/Abdul/assets/160620896/56b50ce0-60aa-41fe-8f53-0b4583b39665">
-
   Full 5-stage instruction pipeline and pc-increment description Waveform
   
 <img width="1325" alt="12" src="https://github.com/Abdulbitm/Abdul/assets/160620896/e5ebc923-ad2c-44fc-a577-3ce7b8419bce">
