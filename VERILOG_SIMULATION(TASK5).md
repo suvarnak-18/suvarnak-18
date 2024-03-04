@@ -60,7 +60,7 @@ $ iverilog -o hello hello.v hello_tb.v
 $ ./hello
 ```
 
-![running verilog code using iverilog](https://github.com/Abdulbitm/Abdul/assets/160620896/46375be6-64b8-477b-b6ee-8e389e3a064f)
+![running verilog code using iverilog](https://![task53](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/50b92277-ad59-4317-a3d7-86eb15300ae7)
 
 - **To see the output waveform in gtkwave, enter the following commands in your terminal.**
 
