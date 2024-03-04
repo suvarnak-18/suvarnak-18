@@ -75,7 +75,8 @@ $ ./hello
  The output waveform showing the instructions performed in a 5-stage pipelined architecture.
  
  Instruction 1:add r6,r2,r1
- <img width="1282" alt="1" src="https://github.com/Abdulbitm/Abdul/assets/160620896/9475de20-c117-476a-bebc-54dd3548c109">
+ <img width="1282" alt="1" src="https://![pic1](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/59b3e5ec-9c27-464a-8981-d3513ffce04d)
+
 
  Instruction 2:sub r7,r1,r2
  <img width="1280" alt="2" src="https://github.com/Abdulbitm/Abdul/assets/160620896/2c95f18f-191e-4500-9cda-e7e838d1e609">
