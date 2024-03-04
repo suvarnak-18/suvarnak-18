@@ -46,8 +46,9 @@ This project provides an insight into the working of a few important instruction
 - **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
 
  ```
- $ git clone https://github.com/Abdulbitm/Abdul
- $ cd Abdul
+ $ git clone https://![task52](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/8c9c6022-4fdc-4148-814e-c1c103910448)
+
+ 
 ```
 ![changing directory_Abdul](https://github.com/Abdulbitm/Abdul/assets/160620896/c4c22216-3de1-4337-985f-c1347a629cf1)
 
