@@ -81,12 +81,9 @@ $ ./hello
  Instruction 2:sub r7,r1,r2
  <img width="1280" alt="2" src="https://![pic12](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7f237bc2-bedd-4984-8f12-8e8bfd6d5bde)
 
-
-Instruction 3:and r8,r1,r3
-<img width="1282" alt="3" src="https://github.com/Abdulbitm/Abdul/assets/160620896/18bfdf76-1173-4984-b50b-83443ab48596">
-
 Instruction 4:or r9,r2,r5
-<img width="1294" alt="4" src="https://github.com/Abdulbitm/Abdul/assets/160620896/4f214bb2-c934-4778-bf46-841efe877fb8">
+<img width="1294" alt="4" src="https://![pic13](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/0ed56971-a107-461b-bdfd-344725bea112)
+
 
  Instruction 5:xor r10,r1,r4
  <img width="1293" alt="5" src="https://github.com/Abdulbitm/Abdul/assets/160620896/6fa91f49-5e73-4133-8bf6-84ec4aca64da">
