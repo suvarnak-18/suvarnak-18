@@ -89,11 +89,10 @@ Instruction 4:or r9,r2,r5
  <img width="1293" alt="5" src="https://![pic14](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/77b7594f-7028-40bd-a9a1-3bc066ee3b68)
 
 
-  Full 5-stage instruction pipeline and pc-increment description Waveform
   
-<img width="1325" alt="12" src="https://github.com/Abdulbitm/Abdul/assets/160620896/e5ebc923-ad2c-44fc-a577-3ce7b8419bce">
 
-![w6](https://github.com/Abdulbitm/Abdul/assets/160620896/d39e08b3-38e9-43bd-a814-c53faebf0607)
+![w6](https://![pic16](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7a64e0d2-b2f1-4262-b146-ca2edc553813)
+
 
 ![RISCV_folder](https://github.com/Abdulbitm/Abdul/assets/160620896/669887ed-9ab6-48f1-8cf8-83e5f3eec2bd)
 
