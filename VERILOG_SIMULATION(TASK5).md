@@ -50,7 +50,8 @@ This project provides an insight into the working of a few important instruction
 
  
 ```
-![changing directory_Abdul](https://github.com/Abdulbitm/Abdul/assets/160620896/c4c22216-3de1-4337-985f-c1347a629cf1)
+(https://![task52](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/324dbc01-a554-4be4-995a-bc606744b970)
+
 
 - **To simulate and run the Verilog code, enter the following commands in your terminal.**
 
